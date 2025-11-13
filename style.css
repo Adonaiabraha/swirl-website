@@ -1,0 +1,36 @@
+body {
+background-color: #fff6ec;
+font-family: Arial, sans-serif;
+ color: #333;
+margin: 25px;
+}
+h1{
+ color: #c16c5a;
+ text-align: center;
+}
+
+p {
+ max-width: 600px;
+margin: 12px auto;
+ text-align: center;
+ line-height: 1.4;
+}
+
+a {
+ display:inline-block;
+ margin:8px;
+ background-color: #f8caa8;
+ padding:6px 11px;
+ border-radius:5px;
+ color:black;
+}
+a:hover{
+ background-color:#f3a97d;
+}
+img {
+ display:block;
+ margin:20px auto;
+ width:380px;
+ border-radius:10px;
+ border:2px solid #f0dfcf;
+}
